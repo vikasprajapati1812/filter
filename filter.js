@@ -31,3 +31,4 @@ function filterTable() {
   });
 }
 
+console.log("hello checking the commit after adding some code in VS code ")
